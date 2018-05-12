@@ -1,5 +1,5 @@
 _repo: Sakoontala--Or-The-Lost-Ring--An-Indian-Drama_12169
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Monier-Williams, Monier, Sir
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1899
     gutenberg_agent_id: '2399'
     url: http://www.gutenberg.org/2009/agents/2399
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kalidasa
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4247
     wikipedia: http://en.wikipedia.org/wiki/K%C4%81lid%C4%81sa
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12169#Sakoontala--Or-The-Lost-Ring--An-Indian-Drama
 gutenberg_bookshelf:
 - India
 - Best Books Ever Listings
